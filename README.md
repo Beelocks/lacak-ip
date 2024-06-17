@@ -1,2 +1,1 @@
-# project-baru
-Coba
+lacak ip 
